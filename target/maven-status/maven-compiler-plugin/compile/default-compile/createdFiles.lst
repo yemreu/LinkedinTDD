@@ -1,0 +1,8 @@
+main\ScoreDBFake.class
+main\ExternalDBMock.class
+main\Hangman.class
+main\ScoreDBStub.class
+main\WordScore.class
+main\ExternalDBStub.class
+main\ObjectUnderTest.class
+main\ScoreDBSpy.class
